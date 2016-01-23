@@ -62,15 +62,15 @@
         "highlights": [
           "Often worked alone from opening until close in a busy coffee house along the freeway.",
           "Responsible for positively interacting with customers, making drinks and food quickly and accurately, and accurate operation of the till.",
-          "Developed a positive reputation among customers and recived several favorable yelp.com reviews."
+          "Developed a positive reputation among customers and recived several favorable [reviews.](http://www.yelp.com/biz/skinners-rockhouse-coffee-jordan-valley)"
         ]
       }
     ]
   },
   "projects": [
     {
-      "title": "Awesome Project #1",
-      "category": "FOSS",
+      "title": "Project Name",
+      "category": "Fuzzy Logic",
       "url": "http://project-page.org",
       "repo": "https://project-repo.com",
       "media": [],
@@ -84,7 +84,7 @@
   "education": {
     "summary": "Optional overall education summary. Not used in most themes.",
     "level": "degree",
-    "degree": "BSCS",
+    "degree": "BS",
     "history": [
       {
         "institution": "School of Life",
@@ -149,8 +149,8 @@
   },
   "samples": [
     {
-      "title": "Work Sample",
-      "summary": "Description or summary of the work sample.",
+      "title": "Subtractive Clustering",
+      "summary": "Final project exploring the viability of subtractive clustering in analysing noisy data.",
       "url": "http://project-repo.com",
       "date": "2015"
     }
@@ -239,31 +239,26 @@
       "language": "English",
       "level": "native"
     },
-    {
-      "language": "Spanish",
-      "level": "advanced"
-    }
   ],
   "interests": [
     {
-      "name": "GitHub",
-      "summary": "Regular GitHub user and tinkerer.",
+      "name": "Multicoptors",
+      "summary": "Building and programing various multicoptors (commonly called 'drones').",
       "keywords": [
-        "GitHub",
-        "git",
-        "GitHub Desktop (OS X)",
-        "LFS",
-        "GitHub API"
+        "drones",
+        "multicoptors",
+        "programming",
+        "quadcoptor racing",
+        "FPV"
       ]
     },
     {
-      "name": "chess",
-      "summary": "Avid chess player.",
+      "name": "Homebrewing",
+      "summary": "Homebrewing my own beer.",
       "keywords": [
-        "Sicilian",
-        "King's Gambit",
-        "Ruy Lopez"
-      ]
+        "craft beer",
+        "homebrewing"
+    ]
     }
   ]
 }
